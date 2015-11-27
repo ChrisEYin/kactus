@@ -18,6 +18,7 @@ Some links to me on the web -
 
 [Twitter](http://bit.ly/12HmPYA) |
 [Linkedin](http://linkd.in/17X1xcM) |
+[Instagram](http://bit.ly/yinstagram) |
 [Tumblr](http://bit.ly/144f6XZ) |
 [Quibb](http://bit.ly/17X1s8W) |
 [Quora](http://b.qr.ae/12HmYeO) |
