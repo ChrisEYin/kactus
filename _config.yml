@@ -3,6 +3,7 @@ description: Startup guy. Armchair Philosopher.
 meta_description: "Blogging"
 
 aboutPage: true
+quotesPage: true
 
 markdown: redcarpet
 highlighter: pygments

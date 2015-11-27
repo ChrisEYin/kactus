@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Quotes 
-tags: 
- - 404
+title: Quotes
+permalink: quotes/
+profile: true
 ---
 
 >"Actions express priorities."
@@ -56,4 +55,6 @@ tags:
 >“Most great people have attained their greatest success just one step beyond their greatest failure.” 
 
 -Napoleon Hill  
+
+{% include footer.html %}
 
