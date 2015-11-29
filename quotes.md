@@ -1,6 +1,7 @@
 ---
 title: Quotes
 permalink: quotes/
+layout: default
 profile: true
 ---
 
