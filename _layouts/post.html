@@ -12,6 +12,7 @@ archive: true
         {{content}}
     </section>
 </article>
+
 <footer id="post-meta" class="clearfix">
     <a href="http://twitter.com/{{ site.authorTwitter }}">
         <img class="avatar" src="{{ site.baseurl }}assets/images/avatar.png">
@@ -25,6 +26,20 @@ archive: true
         {% include share.html %}
     </section>
 </footer>
+
+<!-- Older / New posts -->
+
+<div style="text-align:center">
+    {% if page.previous %}
+        <a {% if page.previous %}href="{{ page.previous.url }}"{% endif %}>&lt; Last</a>
+    {% endif %}
+    {% if page.next %}
+    |
+        <a {% if page.next %}href="{{ page.next.url }}"{% endif %}>Next &gt;</a>
+    {% endif %}
+</div>
+
+<hr>
 
 <!-- Disqus comments -->
 {% if site.disqus %}
