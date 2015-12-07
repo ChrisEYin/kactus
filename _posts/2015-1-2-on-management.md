@@ -28,4 +28,6 @@ Lots of good stuff in there, but a few things I really enjoyed --
 
 * Promote from within. The best in that discipline gets promoted. This way the team doesn't get demoralized and there is respect. Management can be learned later.
 
+<br>
+
 Great stuff, check out the [whole lecture here] (http://startupclass.samaltman.com/courses/lec14/).

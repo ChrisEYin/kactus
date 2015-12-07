@@ -52,6 +52,8 @@ Since Discover is now 3 panes in 1, we need to reorganize it. In a recent [press
 4. Re-label featured as Recommended. Take what the user likes and show similar films.
 5. Last is Social, which is the currently the My Friends pane.
 
+<br>
+
 Keep Smart Browse the same (it's awesome), and re-sort In Theatres the same way we did Discover, from general to customized. We end up with something like this:
 
 <p align="center">

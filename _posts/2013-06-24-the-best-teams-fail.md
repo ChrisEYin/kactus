@@ -26,6 +26,8 @@ This is the golden state. There is meaning behind the work. People are empowered
 
 <blockquote class="twitter-tweet"><p>The reason transparency is a such a powerful value for a company’s culture? It breeds trust, and trust is the foundation of great teamwork.</p>&mdash; Joel Gascoigne (@joelgascoigne) <a href="https://twitter.com/joelgascoigne/statuses/340499460696203264">May 31, 2013</a></blockquote>
 
+<br>
+
 So how to build trust? There's 2 main ways -- success and failure.  
 
 **Success**

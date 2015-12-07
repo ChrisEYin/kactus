@@ -18,7 +18,9 @@ Several concepts in the book, but really focused around 3 main points:
 
 1. Management is about output
 2. A manager’s output is the output of org under and the adjacent org
-3. The team only does well when peak performance is elicited from each member of the team 
+3. The team only does well when peak performance is elicited from each member of the team
+
+<hr>
 
 __Output__
 
@@ -43,6 +45,8 @@ There are 2 types of indicators to think through —
 1. Leading
 2. Trend
 
+<br>
+
 Production is again, like a black box. You put something in and something comes out. Leading indicators are like cutting small holes into your black box at certain steps to peer inside. You can then evaluate how things are going during production and if things are on track.
 
 Trend indicators measure output against time. These should be compared both individually and globally to measure your output over time.
@@ -55,6 +59,8 @@ As you move through production and you begin to measure each of these with diffe
 
 1. Do it faster
 2. Do it differently
+
+<br>
 
 To do it faster, write out the steps and figure out how to reduce them. Automation is a good way. 
 
@@ -77,6 +83,8 @@ Steps to make sure you’re helping the team perform —
 5. Review indicators/output
 6. Collect info & make decisions with the team.
 
+<br>
+
 *Adding Value*
 
 Much of this is about managing other people. But first when managing yourself, always keep in mind — 
@@ -84,6 +92,8 @@ Much of this is about managing other people. But first when managing yourself, a
 1. Are you adding value or just passing it along in the chain?
 2. Are you plugged into what’s happening, both inside and outside the company?
 3. Are you trying new things / ideas?
+
+<br>
 
 *Task Relevant Maturity*
 
@@ -98,6 +108,8 @@ There are 3 modes of control when it comes to dealing with your team —
 1. Free Market Forces
 2. Contractual Obligations
 3. Values
+
+<br>
 
 Free market is when there is no management needed and the market sets the rules. Buying something at the flea market is an example of free market forces. All you can do is abide by the what is set. 
 
@@ -119,6 +131,8 @@ You can be doing any number of things at one time. But to make sure you are gett
 4. Say no earlier (more expensive to say no after has gone through some production)
 5. Allow slack - don’t have a single unexpected event derail your whole day
 
+<br>
+
 There’s also negative leverage — meddling when you don’t know what you’re doing. Don’t be one of these managers. 
 
 *Collecting Info and Making Decisions*
@@ -130,21 +144,31 @@ To classify, there are 2 types of meetings —
 1. Process
 2. Mission
 
+<br>
+
 Process meetings are regular updates and should be done with a production mindset — batch stuff together, review indicators, focus on outcomes, make decisions, etc. 3 types of these — 
 
 1. 1-1
-	* The agenda should be set from the report
-	* How you manage them should be based on their TRM
-	* Get status updates around key indicators 
-	* How they’re feeling in general
-	* Listen to problems and things that will become problems
+* The agenda should be set from the report
+* How you manage them should be based on their TRM
+* Get status updates around key indicators 
+* How they’re feeling in general
+* Listen to problems and things that will become problems
+
+<br>
+
 2. Staff Meeting
-  * Manager should set the agenda far before so team can review
-  * The team should be actively discussing, manager just supervising (focus on indicators/outputs, guide to decisions, etc)
-  * Only discuss things that affect more than 2 people
+* Manager should set the agenda far before so team can review
+* The team should be actively discussing, manager just supervising (focus on indicators/outputs, guide to decisions, etc)
+* Only discuss things that affect more than 2 people
+
+<br>
+
 3. Operation Review
-  * Similar to staff meeting, but a full meeting across various departments
-  * Each team should be presenting, and the manager should be moderating
+* Similar to staff meeting, but a full meeting across various departments
+* Each team should be presenting, and the manager should be moderating
+
+<br>
 
 Mission oriented meetings are centered around a particular topic and solving a problem. In order for this to be effective, someone needs to own it — makes sure the right people are there, organize agenda ahead of time, keep people focused, and get the results out to everyone after. 
 

@@ -51,6 +51,8 @@ SMB's are more like consumers in the way they discover & purchase software - thr
 4. The buyer and user are often the same.
 5. Cost of switching is low (not much sunken cost & lots of alternatives).
 
+<br>
+
 Conversion, cost of sale & $/customer is low. Cost of support/maintenance is mid-high, cost of switching is low, and churn is high.
 
 Meaning for LTV > CAC to work, you need lots & lots of customers to sign up & setup by themselves, not leave too quickly, and not bug you for support. The more support, the harder it is for the math to work out.
@@ -64,6 +66,8 @@ Enterprise buyers are very different in how they discover and buy software. Disc
 3. They have massive requirements. Not all are logical.
 4. The buyer and user are not often the same (affects churn).
 5. Cost of switching is high (lots of sunken cost in buying & setting up). 
+
+<br>
 
 Conversion is high(-er than free trial converts), $/customer & cost of sale/support/switching are all high, and churn is lower.
 

@@ -25,6 +25,8 @@ When we’ve had to bring in outside management, I’ve seen it handled a few di
 * Team Member – join as part of the team, working with them
 * Ineffectual – Not doing much, except blaming the team for their problems 
 
+<br>
+
 All of these are risky and potentially destructive except for 'Team Member'. In order to have the smoothest transition, it is imperative to first be a team member & gain the their respect before you do anything. 
 
 First join the team & observe. Provide value, take things off the team’s plate, and fight for the team. Once you have the team's respect & have a good understanding of how they function, only then can you start to take charge and make change. Anything else and you risk demoralization and breaking up the team.

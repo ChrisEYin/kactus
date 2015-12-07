@@ -22,6 +22,8 @@ These things are hard to find in a short inteview. These 3 questions do a decent
 2.	Give me the 1 thing you suck at
 3.	Explain something to me that you care about.
 
+<br>
+
 Most of the stuff I hear in startup interviews don’t matter. Domain experience is nice, technical trivia can be necessary, but all that really matters is somebody has the right instincts, knows how to learn, and takes ownership.
 
 --

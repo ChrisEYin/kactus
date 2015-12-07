@@ -12,6 +12,8 @@ Saw this on Twitter a few weeks ago --
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/GreggDourgarian">@GreggDourgarian</a> It&#39;s the difference between selling your product and selling your engineering bandwidth. The latter is your lifeblood.</p>&mdash; David Sacks (@DavidSacks) <a href="https://twitter.com/DavidSacks/statuses/474400870910554112">June 5, 2014</a></blockquote>
 
+<br>
+
 Everyone does it. It's especially tempting to sell roadmap when you're early in the game and you need the customers/revenue to gain some traction. But at some point you need to stop. 
 
 Every time you sell engineering bandwidth, you incur some debt. The business continues forward, but development lingers behind trying to fulfill the promises. Eventually the delta gets very large, and you've got a real problem. 
