@@ -12,7 +12,7 @@ tags:
  - software
 ---
 
-I spend a good amount of time with friends and such batting around potential ideas for startups. Many are bad, some are ok, few are good. Even fewer are [good for me to work on](/2015/is-this-idea-for-me/). 
+I spend a good amount of time with friends and such batting around potential ideas for startups. Many are bad, some are ok, few are good. Even fewer are [good for me to work on](/2015/10/26/is-this-idea-for-me/). 
 
 Regardless, here is the framework that I use to come up with potential startup ideas. By no means is the only way to come up with ideas, nor the best way. This is just how I do it. 
 
