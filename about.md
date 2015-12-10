@@ -5,7 +5,7 @@ profile: true
 layout: default
 ---
 
-Hello! I'm Chris Yin -- 26 years old living in the Bay Area working at [Coupa](http://www.crunchbase.com/organization/coupa), a late stage enterprise software startup as the lead Product Manager for Expenses, Inventory, and Mobile. 
+Hello! I'm Chris Yin -- 27 years old living in the Bay Area working at [Coupa](http://www.crunchbase.com/organization/coupa), a late stage enterprise software startup as the lead Product Manager for Expenses, Inventory, and Mobile. 
 
 A little about myself -- I grew up in a small town in the Bay Area. I moved down to San Diego to go to college at [UCSD](https://ucsd.edu/). While I was there, I met some awesome people and started [Pathways](http://rady.ucsd.edu/ciid/pathways-ventures/), a group that worked together on various projects & startups. 
 
