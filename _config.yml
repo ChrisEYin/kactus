@@ -20,7 +20,7 @@ url:            'http://chrisyin.com'
 author:         'Chris Yin'
 authorTwitter:  'chriseyin'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:day/:title/
 
 defaults:
     -
