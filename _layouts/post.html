@@ -31,11 +31,11 @@ archive: true
 
 <div style="text-align:center">
     {% if page.previous %}
-        <a {% if page.previous %}href="{{ page.previous.url }}"{% endif %}>&lt; Last</a>
+        <a {% if page.previous %}href="{{ page.previous.url }}"{% endif %}>&lt; {{ page.previous.title }}</a>
     {% endif %}
     {% if page.next %}
     |
-        <a {% if page.next %}href="{{ page.next.url }}"{% endif %}>Next &gt;</a>
+        <a {% if page.next %}href="{{ page.next.url }}"{% endif %}>{{ page.next.title }} &gt;</a>
     {% endif %}
 </div>
 
