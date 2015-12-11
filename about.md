@@ -5,7 +5,7 @@ profile: true
 layout: default
 ---
 
-Hello! I'm Chris Yin -- 27 years old living in the Bay Area working at [Coupa](http://www.crunchbase.com/organization/coupa), a late stage enterprise software startup as the lead Product Manager for Expenses, Inventory, and Mobile. 
+Hello! I'm Chris Yin -- 27 years old living in the Bay Area working at [Coupa](http://www.crunchbase.com/organization/coupa), a late stage enterprise software startup as Director of Product Management for Expenses, Inventory, and Mobile. 
 
 A little about myself -- I grew up in a small town in the Bay Area. I moved down to San Diego to go to college at [UCSD](https://ucsd.edu/). While I was there, I met some awesome people and started [Pathways](http://rady.ucsd.edu/ciid/pathways-ventures/), a group that worked together on various projects & startups. 
 
@@ -13,7 +13,7 @@ While at Pathways, I spent a lot of time at [AIC](http://ansirsd.com/), a cowork
 
 After finshing undergrad, I spent some time working and learning how to build software, eventually joining [Parand](https://twitter.com/parand) at [Xpenser](http://xpenser.com/). After a few months, we were [acquired by Coupa](http://www.xconomy.com/san-diego/2013/04/18/acquired-or-acq-hired-xpenser-adds-expertise-to-coupas-web-services/), a company out of San Mateo. 
 
-I've been a PM at Coupa since and I lead the way building a few of our products -- [Expenses](http://www.coupa.com/solutions/expense-management-software), [Inventory](http://www.coupa.com/solutions/inventory-system), and Mobile ([iOS](https://itunes.apple.com/us/app/coupa-expense-reports-requisitions/id599455669?mt=8) & [Android](https://play.google.com/store/apps/details?id=com.coupa.android.coupamobile&hl=en)). Perpetually working on a few side projects ([let's chat!](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=christopher.e.yin@gmail.com)), and always down to meet up with cool people. 
+I've been a PM at Coupa since and I lead the way building a few of our products -- [Expenses](http://www.coupa.com/solutions/expense-management-software), [Inventory](http://www.coupa.com/solutions/inventory-system), and Mobile ([iOS](https://itunes.apple.com/us/app/coupa-expense-reports-requisitions/id599455669?mt=8) & [Android](https://play.google.com/store/apps/details?id=com.coupa.android.coupamobile&hl=en)). Always cooking up some side projects ([let's chat!](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=christopher.e.yin@gmail.com)), and always down to meet up with cool people. 
 
 Some links to me on the web - 
 
