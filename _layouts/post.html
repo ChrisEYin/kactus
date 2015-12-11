@@ -49,7 +49,7 @@ archive: true
     </div>
 {% endif %}
 
-<!-- Archive post list -->
+<!--Old Archive post list 
 {% if page.archive %}
     <ul id="post-list" class="archive readmore">
         <h3>Read more</h3>
@@ -61,5 +61,16 @@ archive: true
     </ul>
 {% endif %}
 
+-->
+
+<!-- Related post list --> 
+<ul id="post-list" class="archive readmore">
+    <h3>You Might Also Like</h3>
+        {% for rel in site.related_posts limit:5 %}
+            <li>
+                <a href="{{ rel.url }}">{{ rel.title }}<aside class = "dates">{{ rel.date | date:"%b %d" }}</aside></a>
+            </li>
+        {% endfor %}
+    </ul>
 
 
