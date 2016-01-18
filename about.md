@@ -25,4 +25,7 @@ Some links to me on the web -
 [Quora](http://b.qr.ae/12HmYeO) |
 [RSS](/feed.xml)
 
+{% posts_word_count average %}
+{% posts_word_count longest %}
+
 {% include footer.html %}
