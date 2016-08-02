@@ -38,13 +38,13 @@ Now when I look at what I [wrote about writing almost 3 years ago](/2013/03/12/w
 
 > The goal was to gain insight about my ideas, learn, and get better at writing.
 
-As I fast forward to today, there hasn’t been much that has changed about why I want to write. So to expand a bit more on why I write: 
+As I fast forward to today, not much has changed about this. So to refresh & expand a bit more on why I write: 
 
 __To help refine my thoughts__
 
 For me, writing is another way of thinking. It helps crystallize my own thoughts & opinions and clears out the garbage. Putting this in public on the web forces me to at least think through some things I write about so I don’t sound like too much of an idiot.
 
-__To Share__
+__To share__
 
 I’ve learned a lot of things over the last couple of things. Some good, some bad. While I think that [generalized advice is usually not very helpful](/2014/09/02/advice/), if there’s even 1 person going through something similar and my experiences can help them (or just allow them to relate), then it’s all worth it.
 
