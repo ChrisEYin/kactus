@@ -50,8 +50,4 @@ And so in the early 1600's [Galileo](https://en.wikipedia.org/wiki/Galileo_Galil
 
 So a few examples of technologies that took something very scarce, abstracted them away and made them abundantly available (to the point we take most today for granted). 
 
-<<<<<<< HEAD
 Any thoughts / comments / feedback, feel free to ping me anytime on [Twitter](twitter.com/chriseyin) or shoot me an [email](mailto:christopher.e.yin@gmail.com). 
-=======
-Any thoughts / comments / feedback, feel free to ping me anytime on [Twitter](twitter.com/chriseyin) or shoot me an [email](mailto:christopher.e.yin@gmail.com). 
->>>>>>> 0a499d992622181e4b7c6dd8b8d5a9663c4dfd53
