@@ -1,4 +1,4 @@
-require 'jekyll/post'
+=begin require 'jekyll/post'
 
 module BetterRelatedPosts
 
@@ -64,3 +64,5 @@ module Jekyll
     extend BetterRelatedPosts::ClassMethods
   end
 end
+
+=end

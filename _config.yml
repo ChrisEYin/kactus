@@ -6,7 +6,9 @@ aboutPage: true
 quotesPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rogue
+
+# gems: 'jekyll-paginate'
 
 paginate: 15
 baseurl: /

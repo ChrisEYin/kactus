@@ -21,6 +21,7 @@ tags:
  - instacart
  - homejoy
  - echo
+ - predictions
 ---
 
 In conjunction with my [2014 review](/2014/12/31/2014-Review/), I wrote down some general thoughts on what I think 2015 and the future holds for us. Again, thought I'd share here.
