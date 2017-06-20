@@ -16,15 +16,15 @@ tags:
 
 If you recall from the last post, I borrowed the metaphor of the “black box” from [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove)’s [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) to help us think about scaling.
 
-![via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)](https://medium2.global.ssl.fastly.net/max/2048/1*Xv47ZIJlXvCz0ETYcCcRzA.png)*via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)*
+![homblackbox](/images/homblackbox.png)
 
 The black box is comprised of 3 parts — the input, the machine, and the output. If we translate this to how to think about your startup, it goes:
 
-* Input → People
+*Input → People
 
-* Machine → Org Structure
+*Machine → Org Structure
 
-* Output → Results
+*Output → Results
 
 In this post, we’ll focus on the 1st part — the input or people aspect.
 
@@ -68,7 +68,7 @@ We wanted to prove that we were different. So our main focus was to deliver resu
 To indoctrinate new hires to this particular value, everyone spent the first 3 months doing customer support*. This really got people to understand that getting customers successful was not just lip service, but that it was *the single highest priority*. So at the end of 3 months, they all deeply understood our customers, their problems, and that above all — it was our collective job to make sure that our customers were successful.
 
 **Training**
-> #“At every order of magnitude — expect every process to break.” — [Eric Schmidt](https://medium.com/cs183c-blitzscaling-class-collection/scaling-google-and-yahoo-with-marissa-mayer-class-17-notes-of-stanford-university-s-cs183c-c788ef1d4ddc#.9ya2v53g1)
+> “At every order of magnitude — expect every process to break.” — [Eric Schmidt](https://medium.com/cs183c-blitzscaling-class-collection/scaling-google-and-yahoo-with-marissa-mayer-class-17-notes-of-stanford-university-s-cs183c-c788ef1d4ddc#.9ya2v53g1)
 
 At every startup, everything is breaking all the time. Your deployment process, hiring process, sales funnel, etc. So you are constantly rethinking & rebuilding critical processes. You could even say that at every stage of your company, you are building an entirely new company.
 
@@ -84,12 +84,10 @@ To sum up — as a founder / entrepreneur, you need to constantly be thinking ab
 
 In the next post, we’ll talk more about what to do once with your people once they’re in the machine, or how to think about organizational structure.
 
-[How To Scale Your Startup Part 1: Intro](https://hackernoon.com/how-to-scale-your-startup-an-intro-219185513449#.7suszsz78)
+[How To Scale Your Startup Part 1: Intro](/2016/08/30/scaling-startup-intro/)
 
-[How To Scale Your Startup Part 3: Organizational Design](https://hackernoon.com/how-to-scale-your-startup-part-3-organizational-structure-1e3c8736e33c#.82m7j9n11)
+[How To Scale Your Startup Part 3: Organizational Design](/2016/11/02/scaling-startup-3-org-structure/)
 
-[How To Scale Your Startup Part 4: Results](https://medium.com/@chriseyin/how-to-scale-your-startup-part-4-results-e1ff5a982bd1#.10c8g447n)
-
-*If you liked this post, click on the heart below and follow me on [Twitter (@chriseyin)](https://twitter.com/chriseyin). Any feedback / thoughts, comment or [email me](mailto:christopher.e.yin@gmail.com) anytime.*
+[How To Scale Your Startup Part 4: Results](/2016/11/22/scaling-startup-4-results/)
 
 ** We stopped doing this at some point. I felt that it was an effective tool while we had it.*

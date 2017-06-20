@@ -30,7 +30,7 @@ Once you have something that is working, you pour gas on the fire. Scaling is th
 
 It’s important to note the time & place for scaling. [Startup Genome Report](https://s3.amazonaws.com/startupcompass-public/StartupGenomeReport2_Why_Startups_Fail_v2.pdf) did a study that shows 74% of high growth internet startups fail due to premature scaling. [Fred also notes that](https://www.quora.com/What-is-involved-in-a-startup-scaling) “too many startups miss greatness by not changing gears when the time is right”. So timing is critical.
 
-![via [Andrew Chen](https://twitter.com/andrewchen)’s [Zero to Product/Market Fit](http://andrewchen.co/zero-to-productmarket-fit-presentation/) (slide 22)](https://medium2.global.ssl.fastly.net/max/2440/1*hdvZTl81YlvXZOIXpPvVvA.png)*via [Andrew Chen](https://twitter.com/andrewchen)’s [Zero to Product/Market Fit](http://andrewchen.co/zero-to-productmarket-fit-presentation/) (slide 22)*
+![andrewchen0topmf](/images/andrewchen0topmf.png)
 
 If we chart out the progression of a startup, there should be a singular focus in the early days — find Product Market Fit. How to find PMF is out of scope for this series, but there are [several](https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen) [good posts](https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b#.pnfud9b1a) on the web if you need.
 
@@ -40,21 +40,21 @@ But once you’ve achieved PMF, you have to strike while the iron is hot and bei
 
 To illustrate why scaling well separates good companies from great, I’ll borrow an example from history that I learned from [Michael Dearing](https://twitter.com/mcgd) of [Harrison Metal](https://www.harrisonmetal.com/) during a course I took on [management](https://www.harrisonmetal.com/courses/foundations-general-management) (you should sign up).
 
-![via [NNDB](http://www.nndb.com/people/359/000351303/)](https://medium2.global.ssl.fastly.net/max/2000/1*1EbWF7YnI04NYjdQbcy73w.png)*via [NNDB](http://www.nndb.com/people/359/000351303/)*
+![samslater](/images/samslater.png)
 
 Above is [Sam Slater](https://en.wikipedia.org/wiki/Samuel_Slater). Born in England, he came to Rhode Island in 1789. The textile trade was virtually nonexistent in the US, and so he memorized the designs for a cotton mill and came to America to profit. Once he got here, he raised some money from a group called Almy & Brown and together they built the first textile mills in America.
 
-![A Slater Mill](https://medium2.global.ssl.fastly.net/max/2048/1*d1fNuM0xOXRitQ9Mned8Rw.png)*A Slater Mill*
+![slatermill](/images/slatermill.png)
 
 At some point he decided to split with Almy & Brown and form his own company. Unfortunately, he wasn’t a great manager. His employees kept quitting, choosing to instead compete with him or work as service providers to his mills. Not only that, he was a disconnected with reality. Not paying attention to demand, at one point he overproduced 3 years worth of cotton (~$100K worth)— layoffs and shutdowns of his mills ensued. And he famously missed a huge innovation in the textile industry, the power mill. It’s noted that it wasn’t because he didn’t believe the power mill was better, he just preferred to do what he already knew.
 
-![via [Encyclopedia](http://www.encyclopedia.com/topic/Francis_Cabot_Lowell.aspx)](https://medium2.global.ssl.fastly.net/max/2000/1*639DjyicFXHdgCydDMKHdA.png)*via [Encyclopedia](http://www.encyclopedia.com/topic/Francis_Cabot_Lowell.aspx)*
+![francislowell](/images/francislowell.png)
 
 Around the same time, a man named [Francis Cabot Lowell](https://en.wikipedia.org/wiki/Francis_Cabot_Lowell_(businessman)) came into the scene in Massachusetts. He spent 2 years abroad studying power mills designs in England. Once he came back to the US, he raised some money from [The Boston Associates](https://en.wikipedia.org/wiki/The_Boston_Associates) to form the [Boston Manufacturing Company.](https://en.wikipedia.org/wiki/Boston_Manufacturing_Company)
 
 His story is a bit different. He treated his employees well — paid them more than expected, and he built housing, schools, churches, and more (a stark contrast to the traditionally harsh conditions of mill working). His mills were a massive success — the largest in America at the time with 300+ employees. It was so successful, it grew the town from a few dozen families to a large city and the the leader in the industrial revolution (pop. 2500 to 18K in >10 years). Lowell-style mills became the model to copy for decades after, and they even named the city [Lowell, Massachusetts](https://en.wikipedia.org/wiki/Lowell,_Massachusetts#History) after him.
 
-![A comparison of a Slater mill vs Lowell style factories](https://medium2.global.ssl.fastly.net/max/3064/1*0LZMenwjBGnAhuBz4Aro9Q.png)*A comparison of a Slater mill vs Lowell style factories*
+![slatervslowell](/images/slatervslowell.png)
 
 Now, to be clear — Slater was by no means a failure. Both Slater & Lowell were brilliant. But Lowell embraced scaling & management, while Slater was singularly focused and restricted himself to a self imposed ceiling.
 
@@ -71,28 +71,24 @@ A helpful framework that I’ve found to think about scaling your company is fro
 
 In his book, he refers to the drawing below, the black box. The idea is that you put something into this black box, something happens, and something else comes out.
 
-![via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)](https://medium2.global.ssl.fastly.net/max/2048/1*Xv47ZIJlXvCz0ETYcCcRzA.png)*via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)*
+![homblackbox](/images/homblackbox.png)
 
 And how does this relate to a startup? The black box above clearly has 3 elements — the input, the machine, and the output. If we think about your startup as a black box, it’s easier to identify and focus on what matters.
 
-* Input → People
+*Input → People  
 
-* Machine → Org Structure
+*Machine → Org Structure  
 
-* Output → Results
+*Output → Results  
 
 So once you hit PMF, shift your mind state and start to see yourself as the steward of the black box that is your startup. Your job is to continually focus on the 3 things listed above — people, org structure, results and make sure all of those pieces are working at full throttle.
-> #“Founders should think of their company as a product and build it and shape it with the same passion and care.”
-> #[- Roelof Botha](http://avc.com/2011/10/building-a-company-vs-building-a-business/)
+> “Founders should think of their company as a product and build it and shape it with the same passion and care.”
+> [- Roelof Botha](http://avc.com/2011/10/building-a-company-vs-building-a-business/)
 
 In the subsequent posts, we’ll explore each of these topics and some key thing to keep in mind for each area. Links below, still in progress!
 
-[How To Scale Your Startup Part 2: People](https://medium.com/@chriseyin/how-to-scale-your-startup-part-2-people-6bee26696ae8#.pae05oxys)
+[How To Scale Your Startup Part 2: People](/2016/10/03/scaling-startup-2-people/)
 
-[How To Scale Your Startup Part 3: Organizational Design](https://hackernoon.com/how-to-scale-your-startup-part-3-organizational-structure-1e3c8736e33c#.82m7j9n11)
+[How To Scale Your Startup Part 3: Organizational Design](/2016/11/02/scaling-startup-3-org-structure/)
 
-[How To Scale Your Startup Part 4: Results](https://medium.com/@chriseyin/how-to-scale-your-startup-part-4-results-e1ff5a982bd1#.10c8g447n)
-
-*If you liked this post, click on the heart below and follow me on [Twitter (@chriseyin)](https://twitter.com/chriseyin). Any feedback / thoughts, comment or [email me](mailto:christopher.e.yin@gmail.com) anytime.*
-
-![undefined](https://medium2.global.ssl.fastly.net/max/2800/1*LEiZQK8I-BW1CzsBwwbuxA@2x.png)*undefined*
+[How To Scale Your Startup Part 4: Results](/2016/11/22/scaling-startup-4-results/)

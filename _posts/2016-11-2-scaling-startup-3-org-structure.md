@@ -12,21 +12,19 @@ tags:
  - coupa
 ---
 
-*This is the 3rd post in a 4 part series. You can find the [intro post here](https://medium.com/@chriseyin/how-to-scale-your-startup-an-intro-219185513449#.u6vb4kcue) and the [second post here](https://medium.com/@chriseyin/how-to-scale-your-startup-part-2-people-6bee26696ae8#.pll03ofed).*
-
-![](https://medium2.global.ssl.fastly.net/max/2880/1*NaZJoc4T-zDTGVyDlBMeaw.png)**
+*This is the 3rd post in a 4 part series. You can find the [intro post here](/2016/08/30/scaling-startup-intro/) and the [second post here](/2016/10/03/scaling-startup-2-people/).*
 
 As a refresher — we’re using the metaphor of the “black box” from [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove)’s [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) to help us think about scaling.
 
-![via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)](https://medium2.global.ssl.fastly.net/max/2048/1*Xv47ZIJlXvCz0ETYcCcRzA.png)*via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)*
+![homblackbox](/images/homblackbox.png)
 
 The black box is comprised of 3 parts — the input, the machine itself, and the output. If we translate this to how to think about your startup, we can say:
 
-* Input → People
+*Input → People
 
-* Machine → Organizational Structure
+*Machine → Organizational Structure
 
-* Output → Results
+*Output → Results
 
 In this post, we’ll focus on the 2nd part — the machine or organizational structure. For earlier posts, you find the [intro here](https://medium.com/@chriseyin/how-to-scale-your-startup-an-intro-219185513449#.u6vb4kcue) and the [second one on people here](https://42hire.com/how-to-scale-your-startup-part-2-people-6bee26696ae8#.pll03ofed).
 
@@ -46,7 +44,7 @@ Without a clear picture of this, your employees won’t be able to see how their
 
 However, if everyone can see how work flows through the org, they’ll be able to see how their piece fits into the bigger picture. More importantly, it takes the focus away from the individual and places it with the collective output. It puts the responsibility of the group output on the whole company. And when the pipes of the company are transparent, it’s easier to spot inefficiencies and make things better.
 
-![The 1st org chart (via [Wikipedia](https://en.wikipedia.org/wiki/Daniel_McCallum#/media/File:Organizational_diagram_of_the_New_York_and_Erie_Railroad,_1855.jpg))](https://medium2.global.ssl.fastly.net/max/2000/1*2TBQ_9kSxfXDB6aYORfHpw.png)*The 1st org chart (via [Wikipedia](https://en.wikipedia.org/wiki/Daniel_McCallum#/media/File:Organizational_diagram_of_the_New_York_and_Erie_Railroad,_1855.jpg))*
+![mccallumorgchart](/images/mccallumorgchart.png)
 
 The org chart originates from a man named named [Daniel McCallum](https://en.wikipedia.org/wiki/Daniel_McCallum). A self taught engineer, he became the General Superintendent of the [New York & Erie Railroad](https://en.wikipedia.org/wiki/Erie_Railroad) in the late 1800's. It was a massive org with 5000+ employees and several railroad that spanned over 2300 miles (another example from [Harrison Metal](https://www.harrisonmetal.com/)’s excellent [General Management](https://www.harrisonmetal.com/courses/foundations-general-management) course).
 
@@ -62,7 +60,7 @@ Once you have your organizational structure defined, you have to make sure that 
 > Why [values] matter is that they become the first principles you go back to when you make decisions. It becomes a way to align people […] and it also gives you a list with which you should be able to figure out what to do and what not to do.
 > — [Alfred Lin, Partner at Sequoia](http://startupclass.samaltman.com/courses/lec10/)
 
-![[Enron’s Core Values](http://www.cameronherold.com/blog/culture/want-to-know-what-your-employees-think-of-your-core-values/), displayed in their lobby.](https://medium2.global.ssl.fastly.net/max/2000/1*QnoMdG-z61cjiWdLHyS3cw.png)*[Enron’s Core Values](http://www.cameronherold.com/blog/culture/want-to-know-what-your-employees-think-of-your-core-values/), displayed in their lobby.*
+![enronvalues](/images/enronvalues.png)
 
 It’s easy to make hollow core values that nobody cares about (see Enron). But in order to create core values that people actually believe in and guide the company, you have to make sure that you’re not just saying these things, but you’re actually living them.
 
@@ -92,7 +90,7 @@ In many cases, you need rules. But it’s easy to end up creating too many rules
 
 So your job is to find & eliminate unnecessary rules. Instead of rules, many things can be solved with principles instead. [For example at AirBnB](http://firstround.com/review/bureaucracy-isnt-inevitable-heres-how-airbnb-beat-it/), they had a rule where all expenses required pre-approval. To cut through it, they killed the rule and instead lived by ‘use your best judgement’. Not only did this save a lot of time, but spend didn’t increase. Win-win-win.
 
-![The USS Santa Fe (via [Wikipedia](https://commons.wikimedia.org/wiki/File:US_Navy_110824-N-UK333-041_The_USS_Santa_Fe_returns_to_Joint_Base_Pearl_Harbor-Hickman.jpg))](https://medium2.global.ssl.fastly.net/max/2628/1*STcCOIWYPML4hvEfm4U5og.png)*The USS Santa Fe (via [Wikipedia](https://commons.wikimedia.org/wiki/File:US_Navy_110824-N-UK333-041_The_USS_Santa_Fe_returns_to_Joint_Base_Pearl_Harbor-Hickman.jpg))*
+![usssantafe](/images/usssantafe.png)
 
 Another great example is from [David Marquet](http://www.davidmarquet.com/), former commander of the USS Santa Fe. He took the ship from “worst to first” and achieved the highest retention and operational standings in the navy.
 
@@ -112,12 +110,8 @@ So design a transparent system, define how it works, and maintain efficiency thr
 
 In the next (and last) post, we’ll sum up how to think about the results your organization is producing.
 
-[How To Scale Your Startup Part 1: Intro](https://hackernoon.com/how-to-scale-your-startup-an-intro-219185513449#.7suszsz78)
+[How To Scale Your Startup Part 1: Intro](/2016/08/30/scaling-startup-intro/)
 
-[How To Scale Your Startup Part 2: People](https://medium.com/@chriseyin/how-to-scale-your-startup-part-2-people-6bee26696ae8#.pae05oxys)
+[How To Scale Your Startup Part 2: People](/2016/10/03/scaling-startup-2-people/)
 
-[How To Scale Your Startup Part 4: Results](https://medium.com/@chriseyin/how-to-scale-your-startup-part-4-results-e1ff5a982bd1#.10c8g447n)
-
-*If you liked this post, click on the heart below and follow me on [Twitter (@chriseyin)](https://twitter.com/chriseyin). Any feedback / thoughts, comment or [email me](mailto:christopher.e.yin@gmail.com) anytime.*
-
-![undefined](https://medium2.global.ssl.fastly.net/max/2800/1*LEiZQK8I-BW1CzsBwwbuxA@2x.png)*undefined*
+[How To Scale Your Startup Part 4: Results](/2016/11/22/scaling-startup-4-results/)

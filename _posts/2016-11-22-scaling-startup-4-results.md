@@ -14,15 +14,15 @@ tags:
 
 As a refresher — we’re using the metaphor of the “black box” from [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove)’s [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) to help us think about scaling.
 
-![via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)](https://medium2.global.ssl.fastly.net/max/2048/1*Xv47ZIJlXvCz0ETYcCcRzA.png)*via [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)*
+![homblackbox](/images/homblackbox.png)
 
-The black box is comprised of 3 parts — the input, the machine itself, and the output. If we translate this to how to think about your startup, we can say:
+The black box is comprised of 3 parts — the input, the machine, and the output. If we translate this to how to think about your startup, it goes:
 
-* Input → People
+*Input → People
 
-* Machine → Organizational Structure
+*Machine → Org Structure
 
-* Output → Results
+*Output → Results
 
 In this post, we’ll focus on the last part — results. For earlier posts, you can find the [intro here](https://medium.com/@chriseyin/how-to-scale-your-startup-an-intro-219185513449#.u6vb4kcue), [second one here](https://42hire.com/how-to-scale-your-startup-part-2-people-6bee26696ae8#.pll03ofed), and the [third one here](https://hackernoon.com/how-to-scale-your-startup-part-3-organizational-structure-1e3c8736e33c#.5vpg2rbai).
 
@@ -95,8 +95,12 @@ Third is measuring the results of your startup correctly. Build a dashboard and 
 
 And finally — this is all hard stuff. Running large teams and making sure that they’re focused, aligned, and producing results is really challenging. And it will be an ongoing one. You can’t do this entire thing overnight, and you also can’t blindly follow this and expect it to all work out. These are guidelines, not a prescription. But if you do these things, you’ll have a good starting point & foundation to building a great company.
 
-So good luck and thanks for reading! If there’s anything at all I can do to help, please reach out anytime. Always happy to hear feedback, thoughts, or just chat. ✌🏽
+So good luck and thanks for reading! If there’s anything at all I can do to help, please reach out anytime. Always happy to hear feedback, thoughts, or just chat. 
 
-*If you liked this post, click on the heart below and follow me on [Twitter (@chriseyin)](https://twitter.com/chriseyin). Any feedback / thoughts, comment or [email me](mailto:christopher.e.yin@gmail.com) anytime.*
+[How To Scale Your Startup Part 1: Intro](/2016/08/30/scaling-startup-intro/)
 
-![undefined](https://medium2.global.ssl.fastly.net/max/2800/1*LEiZQK8I-BW1CzsBwwbuxA@2x.png)*undefined*
+[How To Scale Your Startup Part 2: People](/2016/10/03/scaling-startup-2-people/)
+
+[How To Scale Your Startup Part 3: Organizational Design](/2016/11/02/scaling-startup-3-org-structure/)
+
+[How To Scale Your Startup Part 4: Results](/2016/11/22/scaling-startup-4-results/)
