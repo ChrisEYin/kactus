@@ -32,7 +32,7 @@ It's amazing to see. And a testament to this man's ability to work hard! Produci
 
 > If someone want to copy Las Meninas, […] I would say ..what if you put them a little more to the right or left? I'll try to do it my way, forgetting about Velázquez. The test would surely bring me to modify or change the light because of having changed the position of a character. So, little by little, that would be a detestable Meninas for a traditional painter, but would be my Meninas.
 
-A walk down a different hall showcased many of the [portraits he painted of his friends](https://www.nytimes.com/2016/10/21/arts/design/picassos-life-portrait-by-portrait.html. In a similar vein, he painted each friend several times, each in a different style. It echoed the same creative process as I saw in Picasso’s Meninas — exploration, iteration, and repetition.
+A walk down a different hall showcased many of the [portraits he painted of his friends](https://www.nytimes.com/2016/10/21/arts/design/picassos-life-portrait-by-portrait.html). In a similar vein, he painted each friend several times, each in a different style. It echoed the same creative process as I saw in Picasso’s Meninas — exploration, iteration, and repetition.
 
 A quick google search led me to a famous Picasso drawing, ‘[The Bull’](http://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm). It’s a masterclass in simplicitly, iteration, and echoes the same lessons from above. In fact, [Apple uses 'The Bull'](https://www.fastcodesign.com/3034240/how-apple-uses-picasso-to-teach-employees-about-product-design) to teach product design to their employees.
 
