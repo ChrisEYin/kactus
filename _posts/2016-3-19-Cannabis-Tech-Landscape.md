@@ -1,5 +1,5 @@
 ---
-title: Cannabis Landscape
+title: Cannabis Tech Landscape
 layout: post
 tags: 
  - cannabis
