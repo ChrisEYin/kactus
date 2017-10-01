@@ -1,9 +1,11 @@
 ---
 title: Quotes
 permalink: quotes/
-layout: default
-profile: true
+layout: post
+profile: false
 ---
+
+</br>
 
 >"Actions express priorities."
 

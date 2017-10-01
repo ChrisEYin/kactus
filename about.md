@@ -25,4 +25,6 @@ Some links to me on the web -
 [Quora](http://b.qr.ae/12HmYeO) |
 [RSS](/feed.xml)
 
+*Last updated: September 30th, 2015*
+
 {% include footer.html %}

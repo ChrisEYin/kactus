@@ -15,9 +15,14 @@ So I started writing down my thoughts & beliefs. I originally got the idea after
 
 I’ve been maintaining a few private documents over the last few years, mainly one that I’ve called ‘Principles’. It’s really just a compilation of quotes, ideas, and thoughts that I believe are important and should govern my life and decision making process. I’ve used it to help reflect on past decisions / behavior as well as make decisions about the future. 
 
-A few months ago, I ran across Buster’s [Codex Vitae](https://github.com/busterbenson/public) and was intrigued with it. It was a more detailed look into his beliefs and thoughts, separated out into several categories. And so I recently took a swing at it and decided to come up with my own.
+A few months ago, I ran across [Buster Benson's](https://twitter.com/buster) [Codex Vitae](https://github.com/busterbenson/public) and was intrigued with it. It was a more detailed look into his beliefs and thoughts, separated out into several categories. And so I recently took a swing at it and decided to come up with my own.
 
-So in tandem with publishing my ‘Principles’ doc, also going to give a shot to maintaining this codex vitae.
+The [Codex Vitae](/codex) is kind of a lot, so I kept my [Principles](/principles) document separate even though there is clear similarity in the purpose of the document. If it ends up being redundant, will potentially merge them in the future. 
+
+Here they are, feel free to copy / make it your own if you're interested. Also, feedback / thoughts always welcome.
+
+* [Principles](/principles)
+* [Codex Vitae](/codex-vitae)
 
 
 

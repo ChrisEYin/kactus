@@ -15,5 +15,13 @@
         {% endif %}
     {% endif %}
 
+    {% if page.url != "/principles/" %}
+            <a href="{{ site.baseurl }}principles">Principles </a>
+    {% endif %}
+
+    {% if page.url != "/codex-vitae/" %}
+            <a href="{{ site.baseurl }}codex-vitae">Codex Vitae </a>
+    {% endif %}
+
     <!-- <a class="cta" href="{{ site.baseurl }}feed.xml">RSS</a> -->
 </nav>
