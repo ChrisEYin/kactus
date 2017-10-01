@@ -15,7 +15,8 @@ The backstory behind this page is [here](/2017/09/30/codex-vitae/). This was ins
 
 * Live in the moment.  
 * Money is circulated. Time is spent.  
-* Self improvement & mastery are the key to happiness.  
+* Self improvement & mastery are the key to happiness.
+* Pain + Reflecion = Progress  
 * Separate what you can control & what you can't. Focus on the former and ignore the latter. 
 * Quality > quantity in virtually everything.
 * Focus on the important things. Real work > work work.  
