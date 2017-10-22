@@ -20,11 +20,11 @@ If you recall from the last post, I borrowed the metaphor of the “black box”
 
 The black box is comprised of 3 parts — the input, the machine, and the output. If we translate this to how to think about your startup, it goes:
 
-*Input → People
+* Input → People
 
-*Machine → Org Structure
+* Machine → Org Structure
 
-*Output → Results
+* Output → Results
 
 In this post, we’ll focus on the 1st part — the input or people aspect.
 

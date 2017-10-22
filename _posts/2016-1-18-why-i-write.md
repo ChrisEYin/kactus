@@ -14,7 +14,6 @@ First off, a bit of a review. Some numbers:
 * 33 posts in 2014
 * 21 posts in 2013
 
-</br>
 The topics:
 
 * General thoughts & predictions
@@ -23,7 +22,6 @@ The topics:
 * Book Reviews
 * Personal Stuff
 
-</br>
 Most popular: 
 
 * [Collboration 3.0](/2014/10/01/collaboration/)
@@ -33,7 +31,6 @@ Most popular:
 * [Are You Learning To Fail or Failing To Learn?](/2013/05/23/learning-to-fail/)
 * [To Improve Your Work, Stop Working](/2013/08/01/sharpening-the-saw/)
 
-</br>
 Now when I look at what I [wrote about writing almost 3 years ago](/2013/03/12/writing/), this stuck out to me: 
 
 > The goal was to gain insight about my ideas, learn, and get better at writing.

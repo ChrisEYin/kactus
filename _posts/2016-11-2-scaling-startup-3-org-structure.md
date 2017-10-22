@@ -20,11 +20,11 @@ As a refresher — we’re using the metaphor of the “black box” from [Andy 
 
 The black box is comprised of 3 parts — the input, the machine itself, and the output. If we translate this to how to think about your startup, we can say:
 
-*Input → People
+* Input → People
 
-*Machine → Organizational Structure
+* Machine → Organizational Structure
 
-*Output → Results
+* Output → Results
 
 In this post, we’ll focus on the 2nd part — the machine or organizational structure. For earlier posts, you find the [intro here](https://medium.com/@chriseyin/how-to-scale-your-startup-an-intro-219185513449#.u6vb4kcue) and the [second one on people here](https://42hire.com/how-to-scale-your-startup-part-2-people-6bee26696ae8#.pll03ofed).
 

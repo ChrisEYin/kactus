@@ -56,8 +56,6 @@ Now to build the best product, there are 3 important things —
 2. Optimize for growth, not revenue
 3. Understand the competition, but don’t follow
 
-<br>
-
 And again, in an age where products are cheap to build, there is a shift away from heavy planning & careful development to rapid iteration. Companies can learn much faster by continually building & iterating than by trying to plan & guess. Meaning those who build things are now much more important than those who plan things.
 
 __On People__

@@ -8,7 +8,7 @@ tags:
  - product
 ---
 
-I remember telling a friend some time ago what I thought the job of a product manager was. I said —
+I remember telling a friend some time ago what I thought the job of a product manager was. I said:
 
 > “Being a PM is about discovering and propagating truth.”
 
@@ -39,8 +39,6 @@ And what makes a good investigative journalist:
 * Patience to keep digging for information
 * Good contacts throughout society
 * Courage to withstand threats from people you are investigating
-
-</br>
 
 Sounds very much like a founder looking for an idea. Or an investor looking for a promising investment. Maybe that’s why so may [journalists are becoming investors](https://pando.com/2015/04/03/whats-it-take-for-a-tech-journalist-to-become-a-successful-venture-capitalist/).
 

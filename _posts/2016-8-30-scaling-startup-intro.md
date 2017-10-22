@@ -22,7 +22,8 @@ So who am I? I was an early guy at [Xpenser](http://xpenser.com) (2 of us when I
 
 *This series will be broken up into a few posts. This is the intro.*
 
-**First off, what is scaling?**
+**First off, what is scaling?**  
+
 > “Scaling refers to the period [where you can] systematically accelerate growth with confidence.”
 > - [Fred Destin, Accel](https://www.quora.com/What-is-involved-in-a-startup-scaling)
 
@@ -63,6 +64,7 @@ Founders & entrepreneurs can get stuck in the same pattern. Overly focused on wh
 **How to think about scaling**
 
 As you transition into scaling mode, the largest change is a mental one — you have to learn to transition from maker to manager. You have to start to think deeply about how your company works instead of what features to release. You have to focus on culture & values instead of closing deals. Your impact becomes less directly tangible, but if done right, the output is greater.
+
 > “Building the business means obsessing over things like product features, getting traction with early clients, competition, and generating buzz.
 > Building the company means obsessing over things like HR policies, company values and culture, long-term strategy, and investor reporting.”
 > [- Matt Blumberg, Founder & CEO of Return Path](https://www.onlyonceblog.com/2011/10/building-the-company-vs-building-the-business)
@@ -75,13 +77,14 @@ In his book, he refers to the drawing below, the black box. The idea is that you
 
 And how does this relate to a startup? The black box above clearly has 3 elements — the input, the machine, and the output. If we think about your startup as a black box, it’s easier to identify and focus on what matters.
 
-*Input → People  
+* Input → People  
 
-*Machine → Org Structure  
+* Machine → Org Structure  
 
-*Output → Results  
+* Output → Results  
 
 So once you hit PMF, shift your mind state and start to see yourself as the steward of the black box that is your startup. Your job is to continually focus on the 3 things listed above — people, org structure, results and make sure all of those pieces are working at full throttle.
+
 > “Founders should think of their company as a product and build it and shape it with the same passion and care.”
 > [- Roelof Botha](http://avc.com/2011/10/building-a-company-vs-building-a-business/)
 
