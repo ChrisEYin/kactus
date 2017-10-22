@@ -18,8 +18,9 @@ tags:
 
 I recently picked up and read through David’s book [Catching the Big Fish](https://www.amazon.com/dp/B0024NP55G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) on creativity, transcendental meditation, and a variety of other topics.  The book is a collection of dozens of short articles written about various topics. Some of my favorite passages:
 
-> “Ideas are like fish. If you want to catch little fish, you can stay in the shallow water. But if you want to catch the big fish, you've got to go deeper.”
-  
+> “Ideas are like fish. If you want to catch little fish, you can stay in the shallow water. But if you want to catch the big fish, you've got to go deeper.” 
+<br>
+
 > “If you want to get one hour of good painting in, you have to have four hours of uninterrupted time.”
 
 > “You don’t dive for specific solutions; you dive to enliven that ocean of consciousness. Then your intuition grows and you have a way of solving those problems.”
